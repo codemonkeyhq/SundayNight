@@ -9,7 +9,7 @@ defmodule SundayNightTest do
   end
 
   test "Brens first function" do
-    assert adder(1,1) == 3
+    assert adder(1,2) == 3
   end
 
 end
